@@ -1,10 +1,10 @@
-package br.com.keli.keli;
+package br.com.keli.keli_backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class KeliApplicationTests {
+class KeliBackendApplicationTests {
 
 	@Test
 	void contextLoads() {
