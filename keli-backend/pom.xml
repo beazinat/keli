@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.keli</groupId>
-	<artifactId>keli</artifactId>
+	<artifactId>keli-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>keli</name>
+	<name>keli-backend</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
